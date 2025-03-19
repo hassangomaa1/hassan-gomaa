@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://hassan-gomaa.vercel.app/sitemap-1.xml
+Sitemap: https://hassan-gomaa.vercel.app/sitemap.xml
