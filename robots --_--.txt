@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: https://hassan-gomaa.vercel.app/sitemap.xml
